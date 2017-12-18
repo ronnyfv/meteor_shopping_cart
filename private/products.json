@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript: The good parts",
+    "price": 25.54,
+    "inventory": 2,
+    "department": "books"
+  },
+  {
+    "id": 2,
+    "title": "Secrets of the JavaScript Ninja",
+    "price": 45.54,
+    "inventory": 10,
+    "department": "books"
+  },
+  {
+    "id": 3,
+    "title": "Mastering JavaScript Design Patterns",
+    "price": 15.54,
+    "inventory": 7,
+    "department": "books"
+  },
+  {
+    "id": 4,
+    "title": "Clean Code",
+    "price": 41.54,
+    "inventory": 4,
+    "department": "books"
+  },
+  {
+    "id": 5,
+    "title": "Nevermind",
+    "price": 15.99,
+    "inventory": 15,
+    "department": "music"
+  },
+  {
+    "id": 6,
+    "title": "Refactoring",
+    "price": 25.54,
+    "inventory": 2,
+    "department": "books"
+  },
+  {
+    "id": 7,
+    "title": "Hardwired... To Self-Destruct",
+    "price": 18.99,
+    "inventory": 8,
+    "department": "music"
+  }
+]
